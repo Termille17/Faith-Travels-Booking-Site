@@ -59,7 +59,7 @@ const Header = () => {
             >
               {/*mobile Logo Section  */}
               <Offcanvas.Header>
-                <h1 className="logo">Weekendmonks</h1>
+                <h1 className="logo">Faith Travels</h1>
                 <span className="navbar-toggler ms-auto"  onClick={toggleMenu}>
                   <i className="bi bi-x-lg"></i>
                 </span>
