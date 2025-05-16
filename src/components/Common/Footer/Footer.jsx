@@ -82,12 +82,12 @@ const Footer = () => {
           <h4 className="mt-lg-0 mt-sm-3">Contact Info </h4>
 
           <div className="d-flex align-items-center">
-            <p className="pb-2"> Dehradun, Uttarakhand, India</p>
+            <p className="pb-2"> Johannesburg, South Africa</p>
           </div>
 
           <div className="d-flex align-items-top my-2">
           <i className="bi bi-geo-alt me-3"></i>
-          <a target="_blank" href="mailto:rawatcoder@gmail.com" className="d-block" >rawatcoder@gmail.com</a>
+          <a target="_blank" href="mailto:rawatcoder@gmail.com" className="d-block" >info@faithtravels.com</a>
           </div>
           <div className="d-flex align-items-top ">
           <i className="bi bi-telephone me-3"></i>
