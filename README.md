@@ -45,11 +45,10 @@ A responsive, brochure-style travel UI for browsing tours and destinations. This
 
 Navbar
 <img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/d9db0709-4049-4866-881c-bda254184d34" />
-![Navbar](docs/screenshot-navbar.png)
+
 
 Tours Grid (cards, badges, pricing, duration)
 <img width="1899" height="903" alt="image" src="https://github.com/user-attachments/assets/879d711d-c719-4964-87fb-e4f94f89240f" />
-![Tours Grid](docs/screenshot-tours-grid.png)
 
 ---
 
@@ -203,3 +202,4 @@ travel-app/
 Find me on [LinkedIn](https://www.linkedin.com/in/termille-maduna/).
 
 ---
+
